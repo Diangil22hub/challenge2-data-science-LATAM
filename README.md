@@ -1,6 +1,7 @@
 # TelecomX - Análisis de Churn de Clientes
 
 📋 Descripción del Proyecto
+
 Este proyecto analiza la fuga de clientes (churn) de la empresa de telecomunicaciones TelecomX utilizando técnicas de análisis de datos en Python. El objetivo es identificar los factores que influyen en la decisión de los clientes de abandonar el servicio y proporcionar recomendaciones estratégicas para mejorar la retención.
 
 🎯 Objetivos
